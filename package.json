@@ -1,0 +1,9 @@
+{
+    "name": "chatrooms",
+    "version": "0.0.1",
+    "description": "나는야 짱짱맨 프로그래머 이건 개쩌는 채팅앱",
+    "dependencies": {
+        "mime": "^2.4.0",
+        "socket.io": "^2.2.0"
+    }
+}
